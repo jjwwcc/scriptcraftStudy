@@ -1,3 +1,4 @@
+//测试
 function choose(event) {
     
     var player = event.player;
